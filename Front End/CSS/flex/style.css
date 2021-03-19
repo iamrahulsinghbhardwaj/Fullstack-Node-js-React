@@ -1,0 +1,33 @@
+#container{
+    height: 500px;
+    width: 500px;
+    background-color: gray;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#container div{
+    height: 100px;
+    width: 100px;
+}
+#div1{
+    background-color: red;
+    
+}
+
+#div2{
+    background-color: blue;
+ 
+}   
+
+#div3{
+    background-color: green;
+}
+#div4{
+    background-color: yellow;
+}
